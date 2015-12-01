@@ -1,2 +1,2 @@
 # EmailClient
-A email client to recieve and send email with or without attachments
+An email client to receive and send email with or without attachments.
